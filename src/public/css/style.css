@@ -1,0 +1,8 @@
+#room ul {
+    list-style: none;
+}
+
+.notice{
+    color:blue;
+    font-weight: 600;
+}
